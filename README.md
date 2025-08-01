@@ -15,7 +15,7 @@ Construir um dashboard interativo no **Looker Studio** utilizando o dataset `fli
 
 ## 📁 Estrutura do projeto
 
-- 'Profissão Analista de dados M27 Exercício Pratique! Taita Fluxo Passageiros.ipynb': notebook com todo o processo de extração, tratamento e análise dos dado (https://colab.research.google.com/drive/10AMuYAK0e0WNBN40evRpE4MJJ4fxwLP1?usp=sharing).
+- Profissão Analista de dados M27 Exercício Pratique! Taita Fluxo Passageiros.ipynb: notebook com todo o processo de extração, tratamento e análise dos dado (https://colab.research.google.com/drive/10AMuYAK0e0WNBN40evRpE4MJJ4fxwLP1?usp=sharing).
 - flights.csv: dataset tratado e pronto para visualização.
 - Dashboard no Looker Studio:  https://lookerstudio.google.com/reporting/0266144f-f1b2-45cf-bd09-ba1f8916114c.
 
